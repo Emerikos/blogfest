@@ -4,7 +4,7 @@ import { useState } from "react"   //hook that is used for a state
 import { useContext } from "react"
 import { AppNameContext } from "./context/AppNameContext.jsx"
 import { ProductContext } from "./context/ProductContext.jsx"
-import Footer from "./Inventory_components/Footer.jsx"
+import Footer from "./inventory_components/Footer.jsx"
 
 const Inventory = () =>{
     //how to use context
